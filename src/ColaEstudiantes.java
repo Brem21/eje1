@@ -3,6 +3,7 @@ import java.util.Queue;
 
 public class ColaEstudiantes {
     private Queue<String> colaEstudiantes;
+    private int numero1;
 
     public ColaEstudiantes() {
         colaEstudiantes = new LinkedList<>();
