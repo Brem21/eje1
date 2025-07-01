@@ -26,4 +26,5 @@ public class ColaEstudiantes {
     public void mostrarCola() {
         System.out.println("Cola de estudiantes: " + colaEstudiantes);
     }
+
 }
